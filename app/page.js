@@ -205,7 +205,7 @@ export default function Home() {
                     color={'#333'}
                     textAlign={'centre'}
                   >
-                    Item Named '{search}' Not Found... 
+                    Item Named " {search} " Not Found... 
                   </Typography>
                 </>
                 }
